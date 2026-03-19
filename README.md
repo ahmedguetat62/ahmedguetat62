@@ -1,7 +1,12 @@
 <!-- 🟢 Matrix Style Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00FF41&height=220&section=header&text=Ahmed%20Guetat&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher%20%7C%20Bug%20Bounty%20Hunter%20%7C%20Freelance%20Engineer&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00FF41&height=220&section=header&text=Ahmed%20Guetat&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher%20%7C%20Bug%20Bounty%20Hunter%20%7C%20Freelance%20Engineer&descAlignY=58&descAlign=50" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3000&pause=1200&color=00FF41&center=true&vCenter=true&width=500&lines=Building+Secure+Systems;Breaking+%26+Understanding+Systems;Data-Driven+Engineering;Always+Learning" />
+</p>
+
 
 ---
 
