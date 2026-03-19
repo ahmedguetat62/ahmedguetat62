@@ -1,7 +1,8 @@
 <!-- 🟢 Matrix Style Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Bug+Bounty+Hunter;Security+Researcher;Freelance+Software+Engineer;Data-Driven+Builder" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00FF41&height=220&section=header&text=Ahmed%20Guetat&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher%20%7C%20Bug%20Bounty%20Hunter%20%7C%20Freelance%20Engineer&descAlignY=55&descAlign=50" />
 </p>
+
 ---
 
 # 💫 About Me
