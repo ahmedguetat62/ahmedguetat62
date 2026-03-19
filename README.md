@@ -1,10 +1,6 @@
 <!-- 🟢 Matrix Style Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+Initializing+Profile...;%3E+Cybersecurity+Engineer;%3E+AI+%2F+ML+Researcher;%3E+Bug+Bounty+Hunter;%3E+Access+Granted+✔" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=200&section=header&text=Ahmed%20Guetat&fontSize=40&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=Bug%20Bounty%20Hunter%20%7C%20Security%20Researcher%20%7C%20Freelance%20Engineer&descAlignY=55&descAlign=50" />
 </p>
 
 ---
@@ -13,11 +9,21 @@
 
 🎓 Master's student in Cybersecurity  
 💻 Software Engineer  
-🤖 Currently focusing on Artificial Intelligence & Machine Learning  
-🔐 Passionate about Penetration Testing & SOC fundamentals  
-🛠️ Experienced in building secure, scalable applications and automation tools  
-🚀 Worked on real-world projects including scripting, web security, reconnaissance tooling, and backend systems  
-🔍 Open to research opportunities and collaborations  
+🔐 Passionate Bug Bounty Hunter & Security Researcher  
+📊 Data-driven application developer  
+
+🛠️ I build secure, scalable, and data-centric systems  
+🚀 Experienced in real-world projects: automation, web security, reconnaissance tooling, and backend systems  
+🔍 Constantly exploring new vulnerabilities, attack vectors, and emerging technologies  
+
+💡 Strong interest in:
+- Bug Bounty & Security Research  
+- Automation & Recon Tooling  
+- Web Application Security  
+- Data-driven systems & analytics  
+- Freelancer   
+
+🤝 Open to collaborations, freelance work, and research opportunities  
 
 ---
 
@@ -95,7 +101,7 @@
 - 🔍 Security Research & Bug Bounty Hunting  
 - ⚙️ Automation & Recon Tooling Development  
 - 🌐 Web Application Security Testing  
-- 🧪 Experimenting with AI/ML in Cybersecurity  
+- 📊 Building data-driven applications  
 - 🐧 Linux-based offensive and defensive operations  
 
 ---
@@ -108,8 +114,8 @@
 ### 🌐 Secure Web Applications
 > Built & tested secure full-stack systems  
 
-### 🤖 AI + Cybersecurity
-> Applying ML to anomaly detection  
+### 📊 Data-Driven Applications
+> Designing systems powered by data insights  
 
 ### ⚙️ Automation Scripts
 > Recon, scraping & workflow automation  
@@ -132,7 +138,7 @@
 
 # 🤝 Let's Connect
 
-💡 Always open to collaboration, research, and interesting cybersecurity projects  
+💡 Always open to collaboration, freelance work, and interesting cybersecurity projects  
 📬 Feel free to reach out or contribute  
 
 ---
