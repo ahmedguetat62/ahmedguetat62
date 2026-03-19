@@ -1,19 +1,23 @@
-<!-- 🔥 Animated Typing Header -->
+<!-- 🟢 Matrix Style Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Student;Software+Engineer;AI+%26+ML+Enthusiast;Bug+Bounty+Hunter;Always+Learning+New+Things&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+Initializing+Profile...;%3E+Cybersecurity+Engineer;%3E+AI+%2F+ML+Researcher;%3E+Bug+Bounty+Hunter;%3E+Access+Granted+✔" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600"/>
 </p>
 
 ---
 
 # 💫 About Me
 
-🎓 Master's student in Cybersecurity\
-💻 Software Engineer\
-🤖 Currently focusing on Artificial Intelligence & Machine Learning\
-🔐 Passionate about Penetration Testing & SOC fundamentals\
-🛠️ Experienced in building secure, scalable applications and automation tools\
-🚀 Worked on real-world projects including scripting, web security, reconnaissance tooling, and backend systems\
-🔍 Open to research opportunities and collaborations
+🎓 Master's student in Cybersecurity  
+💻 Software Engineer  
+🤖 Currently focusing on Artificial Intelligence & Machine Learning  
+🔐 Passionate about Penetration Testing & SOC fundamentals  
+🛠️ Experienced in building secure, scalable applications and automation tools  
+🚀 Worked on real-world projects including scripting, web security, reconnaissance tooling, and backend systems  
+🔍 Open to research opportunities and collaborations  
 
 ---
 
@@ -58,6 +62,9 @@
 ![AWS](https://img.shields.io/badge/aws-000?style=for-the-badge&logo=amazon-aws)
 ![Azure](https://img.shields.io/badge/azure-000?style=for-the-badge&logo=microsoftazure)
 ![GitHub Actions](https://img.shields.io/badge/github_actions-000?style=for-the-badge&logo=githubactions)
+![Docker](https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/kubernetes-000?style=for-the-badge&logo=kubernetes)
+![Jenkins](https://img.shields.io/badge/jenkins-000?style=for-the-badge&logo=jenkins)
 
 ---
 
@@ -85,11 +92,11 @@
 
 # 🧠 What I Do
 
-- 🔍 Security Research & Bug Bounty Hunting
-- ⚙️ Automation & Recon Tooling Development
-- 🌐 Web Application Security Testing
-- 🧪 Experimenting with AI/ML in Cybersecurity
-- 🐧 Linux-based offensive and defensive operations
+- 🔍 Security Research & Bug Bounty Hunting  
+- ⚙️ Automation & Recon Tooling Development  
+- 🌐 Web Application Security Testing  
+- 🧪 Experimenting with AI/ML in Cybersecurity  
+- 🐧 Linux-based offensive and defensive operations  
 
 ---
 
@@ -110,13 +117,11 @@
 ---
 
 # 🏆 GitHub Trophies
-
 ![](https://github-profile-trophy.vercel.app/?username=ahmedguetat62&theme=onedark&no-frame=true&margin-w=10)
 
 ---
 
 # 📊 GitHub Stats
-
 ![](https://github-readme-stats.vercel.app/api?username=ahmedguetat62&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedguetat62&theme=tokyonight&hide_border=true)
@@ -126,32 +131,20 @@
 ---
 
 # 🧠 Activity Graph
-
 [![Ahmed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedguetat62&theme=tokyo-night)](https://github.com/ahmedguetat62)
 
 ---
 
 # 📈 Profile Views
-
 ![](https://visitcount.itsvg.in/api?id=ahmedguetat62&icon=0&color=0)
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/ahmedguetat62/ahmedguetat62/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
 # 🤝 Let's Connect
 
-💡 Always open to collaboration, research, and interesting cybersecurity projects\
+💡 Always open to collaboration, research, and interesting cybersecurity projects  
 📬 Feel free to reach out or contribute  
 
 ---
 
 ✨ *Building, breaking, and securing systems — one step at a time.*
-
-
