@@ -1,16 +1,7 @@
 <!-- 🟢 Matrix Style Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=900&pause=200&color=00FF41&center=true&vCenter=true&width=500&lines=Loading...;Initializing+System...;Access+Granted" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=00FF41&center=true&vCenter=true&width=500&lines=Security+Researcher;Bug+Bounty+Hunter;Building+Secure+Systems" />
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=600&pause=400&color=FFFFFF&center=true&vCenter=true&width=700&lines=Ahmed+Guetat;Ahmed+Guetat" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=CyberSecurity+Student+-+Software+Engineer+-+Data-Driven+Systems+Developer" />
-</p>
-
 ---
 
 # 💫 About Me
