@@ -1,10 +1,14 @@
 <!-- 🟢 Matrix Style Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00FF41&height=220&section=header&text=Ahmed%20Guetat&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher%20%7C%20Bug%20Bounty%20Hunter%20%7C%20Freelance%20Engineer&descAlignY=58&descAlign=50" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=1000&pause=200&color=00FF41&center=true&vCenter=true&width=500&lines=Loading...;[██████████] 100%25;Access+Granted" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3000&pause=1200&color=00FF41&center=true&vCenter=true&width=500&lines=Building+Secure+Systems;Breaking+%26+Understanding+Systems;Data-Driven+Engineering;Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=600&pause=300&color=FFFFFF&center=true&vCenter=true&width=700&lines=Ahmed+Guetat;Ahmed+Guetat" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=1200&color=00FF41&center=true&vCenter=true&width=800&lines=CyberSecurity+Student+-+Software+Engineer+-+Data+Driven+Systems+Developer" />
 </p>
 
 
