@@ -1,16 +1,15 @@
 <!-- 🟢 Matrix Style Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=1000&pause=200&color=00FF41&center=true&vCenter=true&width=500&lines=Loading...;[██████████] 100%25;Access+Granted" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=900&pause=200&color=00FF41&center=true&vCenter=true&width=500&lines=Loading...;Initializing+System...;Access+Granted" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=600&pause=300&color=FFFFFF&center=true&vCenter=true&width=700&lines=Ahmed+Guetat;Ahmed+Guetat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=600&pause=400&color=FFFFFF&center=true&vCenter=true&width=700&lines=Ahmed+Guetat;Ahmed+Guetat" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=1200&color=00FF41&center=true&vCenter=true&width=800&lines=CyberSecurity+Student+-+Software+Engineer+-+Data+Driven+Systems+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=CyberSecurity+Student+-+Software+Engineer+-+Data-Driven+Systems+Developer" />
 </p>
-
 
 ---
 
