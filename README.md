@@ -116,11 +116,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ahmedguetat62&theme=onedark&no-frame=true&margin-w=10)
-
----
-
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=ahmedguetat62&show_icons=true&theme=tokyonight&hide_border=true)
 
@@ -132,11 +127,6 @@
 
 # 🧠 Activity Graph
 [![Ahmed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedguetat62&theme=tokyo-night)](https://github.com/ahmedguetat62)
-
----
-
-# 📈 Profile Views
-![](https://visitcount.itsvg.in/api?id=ahmedguetat62&icon=0&color=0)
 
 ---
 
